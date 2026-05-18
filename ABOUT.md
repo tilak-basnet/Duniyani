@@ -1,4 +1,4 @@
-# About Duniyani
+ # About Duniyani
 
 Duniyani is a fully modular Layer 1 blockchain blueprint written in modern Go (1.22+). It is specifically designed to serve as a high-performance foundation for Decentralized Physical Infrastructure Networks (DePIN). This document provides an in-depth look at the core logic, architectural decisions, and implementation details across the project.
 
